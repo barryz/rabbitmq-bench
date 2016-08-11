@@ -31,4 +31,4 @@
 
 - **2个节点，不加mirror HA**
 
-![2node_noha](https://github.com/barryz/rabbitmq-bench/blob/master/img/N2Q1E1TC20P10T300PRE100.png, "2node_noha")
+![2node_noha](https://github.com/barryz/rabbitmq-bench/blob/master/img/N2Q1E1TC20P10T300PRE100.png "2node_noha")
