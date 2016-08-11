@@ -5,6 +5,7 @@
 
 # 测试环境
 - 服务器配置
+
 | Node | OS | CPU | MEM | DISK |
 |------|----|-----|-----|------|
 |node1|CentOS Linux release 7.1.1503 (Core)|24 X 2599.968|32GB|250GB HDD|
@@ -12,6 +13,9 @@
 |node3|CentOS Linux release 7.1.1503 (Core)|24 X 2599.968|32GB|250GB HDD|
 
 - RabbitMQ服务配置
+
+| Type | Value| 
+|------|------|
 | RabbitMQ 版本| 3.6.1 |
 | Erlang 版本| 16B |
 | Exchange 模式| 1 topic exchange -> 1 queue|
@@ -27,3 +31,4 @@
 
 - **2个节点，不加mirror HA**
 
+![2node_noha](https://github.com/barryz/rabbitmq-bench/blob/master/img/N2Q1E1TC20P10T300PRE100.png, "2node_noha")
